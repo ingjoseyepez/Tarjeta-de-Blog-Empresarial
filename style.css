@@ -29,7 +29,7 @@ article {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   position: relative;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 /* Contenedor de imagen */
@@ -49,7 +49,7 @@ article {
 .img .banner {
   position: absolute;
   z-index: 2;
-  top: -5%;
+  top: -4%;
 }
 
 /* Encabezado */
@@ -67,6 +67,7 @@ header h1 {
 header p {
   font-size: 16px;
   color: #677489;
+  padding: 10px 0px;
 }
 
 /* Pie de página */
