@@ -18,7 +18,7 @@ Este es un proyecto de tarjeta de presentación creado con **HTML** y **CSS**. L
 
 ## Vista Previa del Proyecto
 
-![Vista Previa del Proyecto](img/vista.png
+![Vista Previa del Proyecto](img/vista.png)
 
 ## Cómo Ejecutarlo Localmente
 
