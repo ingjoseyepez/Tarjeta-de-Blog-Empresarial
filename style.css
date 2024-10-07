@@ -29,6 +29,7 @@ article {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   position: relative;
+  margin-top: 50px;
 }
 
 /* Contenedor de imagen */
@@ -66,7 +67,6 @@ header h1 {
 header p {
   font-size: 16px;
   color: #677489;
-  line-height: 1.6;
 }
 
 /* Pie de página */
